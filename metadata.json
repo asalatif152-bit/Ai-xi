@@ -1,0 +1,8 @@
+{
+  "name": "Remix VX AI · Sovereign Intelligence \u0026 Security Suite",
+  "description": "Sovereign AI intelligence, real-time 5-point cybersecurity vulnerability auditing, multilingual Sorani Kurdish/English reasoning, and threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
